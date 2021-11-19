@@ -1,4 +1,4 @@
-baseURL = 'https://ltaudio.github.io/public-website/'
+baseURL = 'https://ltaudio.de/'
 languageCode = 'en-us'
 title = 'LTaudio'
 theme = 'meghna-hugo'
