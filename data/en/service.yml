@@ -10,7 +10,7 @@ service:
       
     - name: JUCE Applications
       icon: ti-layout
-      content: We also offer any kind of application, that is connected to audio.                                 
+      content: We also offer any other kind of application, that is connected to audio, like scripts for naming samples or routing software.
 
     - name: Protection
       icon: ti-lock
@@ -18,12 +18,11 @@ service:
 
     - name: Custom Design
       icon: ti-palette
-      content: We work together with professional designers to provide you with the most suitable interface for your software.
+      content: We work together with professional designers to provide you the most suitable interface for your software.
 
-    - name: Apps Development
+    - name: Creative Development
       icon: ti-package
-      content: Lorem ipsum dolor sit amet, consectetur. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at.
-
+      content: If your project is not yet fully developed, or you are not sure about technical details, we are happy to help with ideas.
     - name: FAQ
       icon: ti-direction-alt
       content: Do you have any questions? Consider looking for answers here before you write us a message.
