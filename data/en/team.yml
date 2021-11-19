@@ -5,7 +5,7 @@ team:
     - name: Lukas Kaehler
       image: images/team/lukas.jpg
       designation: DSP Expert
-      content: Graduated from the University of popular Arts in Berlin in 2020, he is now holds the position as chief DSP architect at the Berlin based startup Modern Circuits.
+      content: Graduated from the University of popular Arts in Berlin in 2020, he now holds the position as chief DSP architect at the Berlin based startup Modern Circuits.
       social:
         - icon: ti-linkedin
           link: "https://www.linkedin.com/in/lukas-k%C3%A4hler-5167611a8/"
@@ -19,13 +19,13 @@ team:
     - name: Tobias Hienzsch
       image: images/team/tobias.jpg
       designation: C++ Expert
-      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+      content: 15+ years of experience with C++ and many other languages, he now holds the position as CTO at the Berlin based startup Modern Circuits.
       social:
-        - icon: ti-facebook
-          link: "#"
-        - icon: ti-twitter-alt
-          link: "#"
         - icon: ti-linkedin
-          link: "#"
-        - icon: ti-dribbble
-          link: "#"
+          link: "https://www.linkedin.com/in/tobias-hienzsch-b36284154/"
+        - icon: ti-github
+          link: "https://github.com/tobiashienzsch"
+        - icon: ti-github
+          link: "https://github.com/tobanteAudio"
+        - icon: ti-shopping-cart
+          link: "https://www.fiverr.com/tobante"

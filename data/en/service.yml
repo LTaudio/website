@@ -1,5 +1,3 @@
-################################# Service #################################
-# https://themify.me/themify-icons
 service:
   enable: true
   title: Our Services
@@ -7,7 +5,7 @@ service:
     - name: Audio Plug-Ins
       icon: ti-music-alt
       content: We create every kind of audio plug-ins in VST, AU and AAX for your private or commercial use.
-      
+
     - name: JUCE Applications
       icon: ti-layout
       content: We also offer any other kind of application, that is connected to audio, like scripts for naming samples or routing software.
