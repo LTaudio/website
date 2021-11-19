@@ -3,6 +3,7 @@
 service:
   enable: true
   title: Our Services
+  content: We create every kind of audio plug-ins in VST, AU and AAX for your private or commercial use! As developers in a Berlin based plug-in manufacture, we have the experience in working out great ideas and turning them into a flawless audio plugin. Regarding a graphical user interface, we are experienced in working with designs from third-party designers, but we are also happy to introduce you to designers from our environment, to do the graphical art for you. As a little icing on the cake, we can offer many different extras, such as a licensing system to protect your audio plugin from getting illegally copied. Answers to all kind of questions can be either found in our FAQ (link) or be answered after a small introduction of yourself and your project to contact@ltaudio.de.
   service_item:
     - name: Audio Plug-Ins
       icon: ti-music-alt
