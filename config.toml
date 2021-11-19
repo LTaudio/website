@@ -60,6 +60,11 @@ url = "#pricing"
 weight = 5
 
 [[Languages.en.menu.main]]
+name = "documentation"
+url = "https://github.com/LTaudio"
+weight = 6
+
+[[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
 weight = 7
