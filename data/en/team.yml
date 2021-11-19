@@ -1,0 +1,31 @@
+team:
+  enable: true
+  title: The Team
+  team_member:
+    - name: Lukas Kaehler
+      image: images/team/lukas.jpg
+      designation: DSP Expert
+      content: Graduated from the University of popular Arts in Berlin in 2020. DSP architect at the Berlin based startup Modern Circuits.
+      social:
+        - icon: ti-facebook
+          link: "#"
+        - icon: ti-twitter-alt
+          link: "#"
+        - icon: ti-linkedin
+          link: "#"
+        - icon: ti-dribbble
+          link: "#"
+
+    - name: Tobias Hienzsch
+      image: images/team/tobias.jpg
+      designation: C++ Expert
+      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+      social:
+        - icon: ti-facebook
+          link: "#"
+        - icon: ti-twitter-alt
+          link: "#"
+        - icon: ti-linkedin
+          link: "#"
+        - icon: ti-dribbble
+          link: "#"
