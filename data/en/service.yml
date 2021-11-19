@@ -10,11 +10,11 @@ service:
       
     - name: JUCE Applications
       icon: ti-layout
-      content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content: We also offer any kind of application, that is connected to audio.                                 
 
     - name: Protection
       icon: ti-lock
-      content: As a little icing on the cake, we can offer a licensing system to protect your audio plugin from getting illegally copied.
+      content: As a little icing on the cake, we can offer a licensing system to protect your audio software from getting illegally copied.
 
     - name: Custom Design
       icon: ti-palette
@@ -22,8 +22,8 @@ service:
 
     - name: Apps Development
       icon: ti-package
-      content: Lorem ipsum dolor sit amet, consectetur. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content: Lorem ipsum dolor sit amet, consectetur. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at.
 
     - name: FAQ
       icon: ti-direction-alt
-      content: Any questions? Consider looking here for answers, before writing us a message.
+      content: Do you have any questions? Consider looking for answers here before you write us a message.
