@@ -5,16 +5,16 @@ team:
     - name: Lukas Kaehler
       image: images/team/lukas.jpg
       designation: DSP Expert
-      content: Graduated from the University of popular Arts in Berlin in 2020. DSP architect at the Berlin based startup Modern Circuits.
+      content: Graduated from the University of popular Arts in Berlin in 2020, he is now holds the position as chief DSP architect at the Berlin based startup Modern Circuits.
       social:
-        - icon: ti-facebook
-          link: "#"
-        - icon: ti-twitter-alt
-          link: "#"
         - icon: ti-linkedin
-          link: "#"
-        - icon: ti-dribbble
-          link: "#"
+          link: "https://www.linkedin.com/in/lukas-k%C3%A4hler-5167611a8/"
+        - icon: ti-github
+          link: "https://github.com/mikeAudio"
+        - icon: ti-soundcloud
+          link: "https://soundcloud.com/a-z-e-the-producer"
+        - icon: ti-shoppingcart
+          link: "https://www.fiverr.com/lukasklr"
 
     - name: Tobias Hienzsch
       image: images/team/tobias.jpg
